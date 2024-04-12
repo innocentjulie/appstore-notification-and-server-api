@@ -1,4 +1,4 @@
-package v2
+package kojie
 
 import (
 	"crypto/ecdsa"
